@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "todo-project-a7f3d": {
+      "hosting": {
+        "kanban-fire": [
+          "todojira"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "todo-project-a7f3d"
+  }
+}
